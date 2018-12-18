@@ -9,4 +9,6 @@ Each problem will have a link to the proper problem page followed by the problem
 
 ## [Most Frequent Digit](https://practice.geeksforgeeks.org/problems/find-the-most-frequent-digit/0)
 
+"Given a number, find the most occurring digit in it. If two or more digits occur same number of times, then return the highest of them. Input integer is given as a string."
+
 
